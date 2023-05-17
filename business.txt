@@ -1,0 +1,40 @@
+BUSINESS ENTITIES FOR pROJECT MANAGEMENT TOOL FOR db TABLE
+
+
+
+1.Project:  
+-project name
+-description 
+-start date
+-end date
+-project manager.
+
+2.Task:  
+-task name, 
+-description 
+-assigned team members
+-start date 
+-end date
+
+
+
+3.Team:
+-members 
+-projects.
+-Project manager
+
+
+4.Document/File:
+-requirements documents 
+-design specifications 
+-project plans
+
+
+
+
+
+
+
+
+
+

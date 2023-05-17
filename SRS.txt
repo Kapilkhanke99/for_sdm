@@ -1,0 +1,60 @@
+SRS FOR  ONLINE PROJECT MANAGEMENT SYSTEM
+
+1. Introduction
+  Online project management is a tool to help in managing projects within an organization.
+  This system will help employees, projrct managers and stakeholders to update about executions of projects going on in the organization.
+  All beneficiaries will be able to manage resources,time effectively.
+
+2 Scope: The system will provide project managers with tools and features to effectively plan, execute, and monitor projects, including task management, team collaboration, and reporting capabilities.
+
+Functional Requirements
+1 User Registration and Authentication
+- The system shall allow users to create an account and authenticate using username/password or other secure authentication methods.
+- User roles (e.g., project manager, team member) shall be defined to control access levels and permissions.
+
+2 Project Creation and Planning
+- Project managers shall be able to create new projects, defining project details such as name, start/end dates, objectives, and stakeholders.
+- The system shall support the creation of project tasks, assigning resources, setting priorities, and defining dependencies.
+- Project managers should be able to estimate task durations and allocate resources accordingly.
+- The system shall provide Gantt charts and other visual tools for project planning and scheduling.
+
+3 Task Management
+- The system shall allow users to create and manage tasks, including assigning tasks to team members, setting due dates, and tracking progress.
+- Users should be able to update task status, add comments, and attach relevant files.
+- Notifications and reminders should be sent to users for upcoming or overdue tasks.
+
+4 Team Collaboration
+- The system shall facilitate communication and collaboration among project team members, such as messaging, file sharing, and discussion forums.
+- Users should be able to view and update project-related information, including task assignments, deadlines, and dependencies.
+
+5 Reporting and Analytics
+- The system shall generate reports and provide project analytics, including project progress, resource utilization, and budget tracking.
+- Users should be able to customize and export reports in various formats (e.g., PDF, Excel).
+
+Non-Functional Requirements
+1. Performance
+- The system should provide a responsive user interface with minimal latency, even with a large number of projects and users.
+- The system should handle concurrent user interactions and data updates efficiently.
+
+2. Security
+- User authentication  to ensure secure access and prevent unauthorized access to sensitive information.
+- The system should implement role-based system to enforce user permissions.
+
+3. Scalability
+- The system should be designed to handle future growth and accommodate an increasing number of projects and users.
+
+4.Compatibility
+-Should run with all the devices and OS whatever the employees are working
+
+
+
+
+
+
+
+
+
+
+
+
+
